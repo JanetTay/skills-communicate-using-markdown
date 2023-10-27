@@ -17,3 +17,7 @@ srwxr-xr-x  1 taylorj  wheel      0 Oct 14 08:20 1ed3b4a64e1741b5a5b539d2ebb1b9b
 var Var1 = "Best Var"
 var Var2 + "Next best Var"
 ```
+## These are the things that need to be done
+- [ ] Learn about GitHub markup
+- [ ] Understand the commit, pull, and merge flow
+- [ ] become the best at GitHub markup
